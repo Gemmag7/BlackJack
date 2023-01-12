@@ -2,4 +2,4 @@ Run:
 
 Python blackjack.py 
 
-on order to run program
+in console in order to run program
